@@ -21,7 +21,7 @@ for i in range(n):
     temp = [int(num) for num in input().split()]
     matrix.append(temp)
 ```
-**Еще примеры**
+**Еще примеры** by [Aleksandr Filippov](https://stepik.org/users/41898780)
 ```python
 def print_matrix(matrix, n, width=1):
     for r in range(n):
